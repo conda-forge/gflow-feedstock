@@ -1,5 +1,5 @@
 context:
-  version: "0.4.12"
+  version: "0.4.13"
 
 package:
   name: gflow
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/AndPuQing/gflow/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 27a441ac48caa6175edd0adccc4b967f654ca47e6fded3edd2b9ed555d512041
+  sha256: c9f9a5fb3c1b14435d72c829c7ad9da17049527eee22fb1d279594f3b55fe189
 
 build:
   number: 0
